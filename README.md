@@ -25,7 +25,6 @@ Progress bar: (tqdm)
    git clone https://github.com/yourusername/youtube-downloader.git
    cd youtube-downloader
 
-
 2. Run The Script
 
    ```bash
