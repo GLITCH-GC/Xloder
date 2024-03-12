@@ -13,9 +13,6 @@ This is a simple YouTube downloader tool developed by Abdelrahman Ghareeb (GLITC
 ## Requirements
 
 - Python 3.x
-- Required Python packages can be installed:
-YouTube download: (pytube)
-Progress bar: (tqdm)
 
 ## Usage
 
